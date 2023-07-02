@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "admin",
+        "DB_PASSWORD": "admin1905",
+        "DB_NAME": "mern-production",
+        "MAPBOX_API_KEY": "524388364648661414943x120722",
+        "JWT_KEY": "darrshan1905_private_key"
+    }
+}
